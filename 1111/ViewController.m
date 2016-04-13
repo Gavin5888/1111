@@ -16,7 +16,10 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-//    1
+    NSLog(@"nih");
+    UIView *ii = [[UIView alloc] init];
+    ii.frame = self.view.bounds;
+    [self.view addSubview:ii];
 }
 
 - (void)didReceiveMemoryWarning {
