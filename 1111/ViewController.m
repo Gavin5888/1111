@@ -24,6 +24,10 @@
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
+    NSLog(@"nih");
+    UIView *ii = [[UIView alloc] init];
+    ii.frame = self.view.bounds;
+    [self.view addSubview:ii];
 }
 
 @end
