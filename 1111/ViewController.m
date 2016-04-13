@@ -18,17 +18,6 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 //    啊实打实的
-//啊大大阿萨达是 
-//    sad
-
-    
-
-//    王兵傻逼1
-//    刘刚修改
-    
->>>>>>> Stashed changes
-    
-//    厄双方啥的
     NSLog(@"asdasdasd");
 
 
