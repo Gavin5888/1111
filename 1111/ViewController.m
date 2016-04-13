@@ -17,15 +17,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"asdasdasd");
-//    1
-
-//2
 }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
-//    9
 }
 
 @end
