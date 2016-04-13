@@ -18,8 +18,12 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 //    啊实打实的
+//    啊实打实大师啊实打实
+//    sad
     
-//    sad 
+    
+    
+//    厄双方啥的
 }
 
 - (void)didReceiveMemoryWarning {
